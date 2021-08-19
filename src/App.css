@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  font-weight: 400;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: 500;
+}
