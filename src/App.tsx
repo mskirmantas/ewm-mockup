@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   const currentURL = window.location.href;
-  const dmToolURL = "https://dm-prototype.netlify.app/";
+  const dmToolURL = "https://not-dm.netlify.app/";
 
   return (
     <div className="App">
